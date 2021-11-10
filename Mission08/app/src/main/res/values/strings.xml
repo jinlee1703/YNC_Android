@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mission08</string>
+    <string name="app_name1">로그인하기</string>
+    <string name="app_name2">메인메뉴</string>
+    <string name="sub_app_name1">고객 관리</string>
+    <string name="sub_app_name2">매출 관리</string>
+    <string name="sub_app_name3">심플 관리</string>
+</resources>
